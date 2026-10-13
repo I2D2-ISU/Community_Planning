@@ -1,0 +1,201 @@
+fips,location,year,indicator,index,ranking
+19,Statewide,2024,% of children under 5 -- White,0.74983895,NA
+601,CAPS,2024,% of children under 5 -- White,0.59350336,8
+602,LCHD,2024,% of children under 5 -- White,0.74297482,5
+603,LSI,2024,% of children under 5 -- White,0.7041887,6
+605,Promise Partners,2024,% of children under 5 -- White,0.8487674,1
+606,SIEDA,2024,% of children under 5 -- White,0.7971698,3
+608,Woodbury County Consortium,2024,% of children under 5 -- White,0.50185925,9
+609,EveryStep,2024,% of children under 5 -- White,0.64388841,7
+610,Upper Des Moines Opportunity Inc,2024,% of children under 5 -- White,0.76824647,4
+699,No MIECHV Service,2024,% of children under 5 -- White,0.80904961,2
+19,Statewide,2024,% of children under 6,0.30925491,NA
+601,CAPS,2024,% of children under 6,0.29037946,9
+602,LCHD,2024,% of children under 6,0.31892726,2
+603,LSI,2024,% of children under 6,0.30933794,6
+605,Promise Partners,2024,% of children under 6,0.30723375000000003,7
+606,SIEDA,2024,% of children under 6,0.31489226,4
+608,Woodbury County Consortium,2024,% of children under 6,0.32788143,1
+609,EveryStep,2024,% of children under 6,0.31842506,3
+610,Upper Des Moines Opportunity Inc,2024,% of children under 6,0.31084338,5
+699,No MIECHV Service,2024,% of children under 6,0.30513462,8
+19,Statewide,2024,% of household -- English only,0.89347291,NA
+601,CAPS,2024,% of household -- English only,0.7071442,9
+602,LCHD,2024,% of household -- English only,0.97906601,1
+603,LSI,2024,% of household -- English only,0.91274923,5
+605,Promise Partners,2024,% of household -- English only,0.92865705,3
+606,SIEDA,2024,% of household -- English only,0.88066542,6
+608,Woodbury County Consortium,2024,% of household -- English only,0.80034268,8
+609,EveryStep,2024,% of household -- English only,0.83143371,7
+610,Upper Des Moines Opportunity Inc,2024,% of household -- English only,0.95408791,2
+699,No MIECHV Service,2024,% of household -- English only,0.91436553,4
+19,Statewide,2024,% of household with children under 6 -- All working parents,0.75916326,NA
+601,CAPS,2024,% of household with children under 6 -- All working parents,0.79054052,3
+602,LCHD,2024,% of household with children under 6 -- All working parents,0.83790791,1
+603,LSI,2024,% of household with children under 6 -- All working parents,0.76047641,5
+605,Promise Partners,2024,% of household with children under 6 -- All working parents,0.74407834,8
+606,SIEDA,2024,% of household with children under 6 -- All working parents,0.69417542,9
+608,Woodbury County Consortium,2024,% of household with children under 6 -- All working parents,0.75314432,7
+609,EveryStep,2024,% of household with children under 6 -- All working parents,0.76669294,4
+610,Upper Des Moines Opportunity Inc,2024,% of household with children under 6 -- All working parents,0.82027256,2
+699,No MIECHV Service,2024,% of household with children under 6 -- All working parents,0.75682372,6
+19,Statewide,2024,% of household with children under 6 -- Single mom,0.17469256,NA
+601,CAPS,2024,% of household with children under 6 -- Single mom,0.13759086,7
+602,LCHD,2024,% of household with children under 6 -- Single mom,0.26141906,1
+603,LSI,2024,% of household with children under 6 -- Single mom,0.22901015,4
+605,Promise Partners,2024,% of household with children under 6 -- Single mom,0.25173235,2
+606,SIEDA,2024,% of household with children under 6 -- Single mom,0.20180336,6
+608,Woodbury County Consortium,2024,% of household with children under 6 -- Single mom,0.24566333,3
+609,EveryStep,2024,% of household with children under 6 -- Single mom,0.21810257,5
+610,Upper Des Moines Opportunity Inc,2024,% of household with children under 6 -- Single mom,0.12037872,9
+699,No MIECHV Service,2024,% of household with children under 6 -- Single mom,0.13340345,8
+19,Statewide,2024,Birth to teenage mother,0.0386,NA
+601,CAPS,2024,Birth to teenage mother,0.0745,1
+602,LCHD,2024,Birth to teenage mother,0.0379,6
+603,LSI,2024,Birth to teenage mother,0.0463,5
+605,Promise Partners,2024,Birth to teenage mother,0.0366,8
+606,SIEDA,2024,Birth to teenage mother,0.0617,2
+608,Woodbury County Consortium,2024,Birth to teenage mother,0.0554,3
+609,EveryStep,2024,Birth to teenage mother,0.0379,6
+610,Uppper Des Moines Opportunity Inc,2024,Birth to teenage mother,0.051,4
+699,No MIECHV Service,2024,Birth to teenage mother,0.0326,9
+19,Statewide,2024,Birth to unmarried mother,0.3663,NA
+601,CAPS,2024,Birth to unmarried mother,0.4705,4
+602,LCHD,2024,Birth to unmarried mother,0.4781,3
+603,LSI,2024,Birth to unmarried mother,0.4607,5
+605,Promise Partners,2024,Birth to unmarried mother,0.4401,6
+606,SIEDA,2024,Birth to unmarried mother,0.4132,7
+608,Woodbury County Consortium,2024,Birth to unmarried mother,0.5401,1
+609,EveryStep,2024,Birth to unmarried mother,0.3711,8
+610,Uppper Des Moines Opportunity Inc,2024,Birth to unmarried mother,0.523,2
+699,No MIECHV Service,2024,Birth to unmarried mother,0.3086,9
+19,Statewide,2023,Child abuse or neglect,21.045557,NA
+601,CAPS,2023,Child abuse or neglect,27.387959,4
+602,LCHD,2023,Child abuse or neglect,37.259365,2
+603,LSI,2023,Child abuse or neglect,27.431662,3
+605,Promise Partners,2023,Child abuse or neglect,26.516714,5
+606,SIEDA,2023,Child abuse or neglect,22.88389,7
+608,Woodbury County Consortium,2023,Child abuse or neglect,24.193548,6
+609,EveryStep,2023,Child abuse or neglect,17.731565,9
+610,Upper Des Moines Opportunity Inc,2023,Child abuse or neglect,40.17857,1
+699,No MIECHV Service,2023,Child abuse or neglect,18.43004,8
+19,Statewide,2024,Children in poverty,0.13635938,NA
+601,CAPS,2024,Children in poverty,0.11575092,8
+602,LCHD,2024,Children in poverty,0.16704664,4
+603,LSI,2024,Children in poverty,0.18043958,2
+605,Promise Partners,2024,Children in poverty,0.17086719,3
+606,SIEDA,2024,Children in poverty,0.14461136,5
+608,Woodbury County Consortium,2024,Children in poverty,0.18513452,1
+609,EveryStep,2024,Children in poverty,0.14347072,6
+610,Upper Des Moines Opportunity Inc,2024,Children in poverty,0.099957645,9
+699,No MIECHV Service,2024,Children in poverty,0.11602276,7
+19,Statewide,2024,Children not fully immunized,0.2888338,NA
+601,CAPS,2024,Children not fully immunized,0.3067885,6
+602,LCHD,2024,Children not fully immunized,0.36976743,3
+603,LSI,2024,Children not fully immunized,0.28619528,7
+605,Promise Partners,2024,Children not fully immunized,0.41809851,1
+606,SIEDA,2024,Children not fully immunized,0.35603255,4
+608,Woodbury County Consortium,2024,Children not fully immunized,0.37039661,2
+609,EveryStep,2024,Children not fully immunized,0.24655068,9
+610,Upper Des Moines Opportunity Inc,2024,Children not fully immunized,0.324826,5
+699,No MIECHV Service,2024,Children not fully immunized,0.27720463,8
+19,Statewide,2024,Children without health coverage,0.03283775,NA
+601,CAPS,2024,Children without health coverage,0.01943165,7
+602,LCHD,2024,Children without health coverage,0.00463802000000002,9
+603,LSI,2024,Children without health coverage,0.02869391,5
+605,Promise Partners,2024,Children without health coverage,0.01719111,8
+606,SIEDA,2024,Children without health coverage,0.02911133,4
+608,Woodbury County Consortium,2024,Children without health coverage,0.05288941,1
+609,EveryStep,2024,Children without health coverage,0.02274179,6
+610,Upper Des Moines Opportunity Inc,2024,Children without health coverage,0.05059159,2
+699,No MIECHV Service,2024,Children without health coverage,0.03850728,3
+19,Statewide,2024,Domestic violence,215.79146,NA
+601,CAPS,2024,Domestic violence,238.67186,4
+602,LCHD,2024,Domestic violence,215.7467,7
+603,LSI,2024,Domestic violence,350.02151,2
+605,Promise Partners,2024,Domestic violence,282.84818,3
+606,SIEDA,2024,Domestic violence,230.51894,5
+608,Woodbury County Consortium,2024,Domestic violence,441.42422,1
+609,EveryStep,2024,Domestic violence,219.6055,6
+610,Upper Des Moines Opportunity Inc,2024,Domestic violence,113.86434,9
+699,No MIECHV Service,2024,Domestic violence,161.79733,8
+19,Statewide,2024,High school dropout rate,0.01797073,NA
+601,CAPS,2024,High school dropout rate,0.036299765,2
+602,LCHD,2024,High school dropout rate,0.03265306,3
+603,LSI,2024,High school dropout rate,0.020508338,6
+605,Promise Partners,2024,High school dropout rate,0.019962782,7
+606,SIEDA,2024,High school dropout rate,0.016204849,8
+608,Woodbury County Consortium,2024,High school dropout rate,0.027479092,4
+609,EveryStep,2024,High school dropout rate,0.02261393,5
+610,Upper Des Moines Opportunity Inc,2024,High school dropout rate,0.054721549,1
+699,No MIECHV Service,2024,High school dropout rate,0.013525692,9
+19,Statewide,2024,Homelessness,7.9333262,NA
+601,CAPS,2024,Homelessness,2.6324103,6
+602,LCHD,2024,Homelessness,1.9613338,7
+603,LSI,2024,Homelessness,14.504159,3
+605,Promise Partners,2024,Homelessness,0.13865106,9
+606,SIEDA,2024,Homelessness,1.6845615,8
+608,Woodbury County Consortium,2024,Homelessness,27.76549,2
+609,EveryStep,2024,Homelessness,14.209768,4
+610,Upper Des Moines Opportunity Inc,2024,Homelessness,29.821613,1
+699,No MIECHV Service,2024,Homelessness,4.2659836,5
+19,Statewide,2024,Inadequate prenatal care,0.0885,NA
+601,CAPS,2024,Inadequate prenatal care,0.0947,5
+602,LCHD,2024,Inadequate prenatal care,0.053900000000000003,8
+603,LSI,2024,Inadequate prenatal care,0.0968,4
+605,Promise Partners,2024,Inadequate prenatal care,0.0521,9
+606,SIEDA,2024,Inadequate prenatal care,0.1366,2
+608,Woodbury County Consortium,2024,Inadequate prenatal care,0.1501,1
+609,EveryStep,2024,Inadequate prenatal care,0.078,7
+610,Uppper Des Moines Opportunity Inc,2024,Inadequate prenatal care,0.1046,3
+699,No MIECHV Service,2024,Inadequate prenatal care,0.0847,6
+19,Statewide,2024,Low early literacy skills,0.34006453,NA
+601,CAPS,2024,Low early literacy skills,0.56291389,1
+602,LCHD,2024,Low early literacy skills,0.46416384,3
+603,LSI,2024,Low early literacy skills,0.37205523,6
+605,Promise Partners,2024,Low early literacy skills,0.34674329,7
+606,SIEDA,2024,Low early literacy skills,0.44555277,4
+608,Woodbury County Consortium,2024,Low early literacy skills,0.33073652,8
+609,EveryStep,2024,Low early literacy skills,0.40722114,5
+610,Upper Des Moines Opportunity Inc,2024,Low early literacy skills,0.47174448,2
+699,No MIECHV Service,2024,Low early literacy skills,0.29625738,9
+19,Statewide,2024,Low maternal education,0.0999,NA
+601,CAPS,2024,Low maternal education,0.1429,3
+602,LCHD,2024,Low maternal education,0.0773,9
+603,LSI,2024,Low maternal education,0.0889,7
+605,Promise Partners,2024,Low maternal education,0.0898,6
+606,SIEDA,2024,Low maternal education,0.1449,2
+608,Woodbury County Consortium,2024,Low maternal education,0.2012,1
+609,EveryStep,2024,Low maternal education,0.1084,4
+610,Uppper Des Moines Opportunity Inc,2024,Low maternal education,0.0995,5
+699,No MIECHV Service,2024,Low maternal education,0.0888,8
+19,Statewide,2024,Preterm/Low birth weight,0.1142,NA
+601,CAPS,2024,Preterm/Low birth weight,0.1165,7
+602,LCHD,2024,Preterm/Low birth weight,0.1414,2
+603,LSI,2024,Preterm/Low birth weight,0.1235,3
+605,Promise Partners,2024,Preterm/Low birth weight,0.1186,6
+606,SIEDA,2024,Preterm/Low birth weight,0.1152,8
+608,Woodbury County Consortium,2024,Preterm/Low birth weight,0.145,1
+609,EveryStep,2024,Preterm/Low birth weight,0.1209,5
+610,Uppper Des Moines Opportunity Inc,2024,Preterm/Low birth weight,0.1224,4
+699,No MIECHV Service,2024,Preterm/Low birth weight,0.1054,9
+19,Statewide,2024,Rate of serious crime,4032.7629,NA
+601,CAPS,2024,Rate of serious crime,2951.2759,8
+602,LCHD,2024,Rate of serious crime,4960.0483,5
+603,LSI,2024,Rate of serious crime,5706.5303,3
+605,Promise Partners,2024,Rate of serious crime,4357.1299,6
+606,SIEDA,2024,Rate of serious crime,3729.1208,7
+608,Woodbury County Consortium,2024,Rate of serious crime,7214.7505,1
+609,EveryStep,2024,Rate of serious crime,5611.5903,4
+610,Upper Des Moines Opportunity Inc,2024,Rate of serious crime,7156.6846,2
+699,No MIECHV Service,2024,Rate of serious crime,2745.1101,9
+19,Statewide,2024,Unemployment,0.030533671,NA
+601,CAPS,2024,Unemployment,0.053177226,1
+602,LCHD,2024,Unemployment,0.037707735,2
+603,LSI,2024,Unemployment,0.036195155,3
+605,Promise Partners,2024,Unemployment,0.029273286,8
+606,SIEDA,2024,Unemployment,0.031734429,4
+608,Woodbury County Consortium,2024,Unemployment,0.030019319,7
+609,EveryStep,2024,Unemployment,0.030590035,6
+610,Upper Des Moines Opportunity Inc,2024,Unemployment,0.031242603,5
+699,No MIECHV Service,2024,Unemployment,0.028303944,9
