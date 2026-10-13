@@ -1,0 +1,161 @@
+fips,location,year,indicator,index,ranking
+19,Statewide,2024,% of children under 5 -- White,0.74983895,NA
+701,District 1,2024,% of children under 5 -- White,0.67332131,7
+702,District 2,2024,% of children under 5 -- White,0.83903521,3
+703,District 3,2024,% of children under 5 -- White,0.81022692,4
+704,District 4,2024,% of children under 5 -- White,0.86435139,1
+705,District 5,2024,% of children under 5 -- White,0.72292578,5
+706,District 6,2024,% of children under 5 -- White,0.85084307,2
+707,District 7,2024,% of children under 5 -- White,0.72135204,6
+19,Statewide,2024,% of children under 6,0.30925491,NA
+701,District 1,2024,% of children under 6,0.31549722,1
+702,District 2,2024,% of children under 6,0.30297449,7
+703,District 3,2024,% of children under 6,0.30546072,4
+704,District 4,2024,% of children under 6,0.30468929,5
+705,District 5,2024,% of children under 6,0.30806747,3
+706,District 6,2024,% of children under 6,0.3045274,6
+707,District 7,2024,% of children under 6,0.31268337,2
+19,Statewide,2024,% of household -- English only,0.89347291,NA
+701,District 1,2024,% of household -- English only,0.84042251,7
+702,District 2,2024,% of household -- English only,0.9449147,1
+703,District 3,2024,% of household -- English only,0.88236368,5
+704,District 4,2024,% of household -- English only,0.94229811,2
+705,District 5,2024,% of household -- English only,0.86877334,6
+706,District 6,2024,% of household -- English only,0.90237218,4
+707,District 7,2024,% of household -- English only,0.91695982,3
+19,Statewide,2024,% of household with children under 6 -- All working parents,0.75916326,NA
+701,District 1,2024,% of household with children under 6 -- All working parents,0.7483331,4
+702,District 2,2024,% of household with children under 6 -- All working parents,0.74068719,6
+703,District 3,2024,% of household with children under 6 -- All working parents,0.766101,2
+704,District 4,2024,% of household with children under 6 -- All working parents,0.74476516,5
+705,District 5,2024,% of household with children under 6 -- All working parents,0.76096225,3
+706,District 6,2024,% of household with children under 6 -- All working parents,0.7040109,7
+707,District 7,2024,% of household with children under 6 -- All working parents,0.77879041,1
+19,Statewide,2024,% of household with children under 6 -- Single mom,0.17469256,NA
+701,District 1,2024,% of household with children under 6 -- Single mom,0.19784498,2
+702,District 2,2024,% of household with children under 6 -- Single mom,0.14485243,6
+703,District 3,2024,% of household with children under 6 -- Single mom,0.12958728,7
+704,District 4,2024,% of household with children under 6 -- Single mom,0.21724449,1
+705,District 5,2024,% of household with children under 6 -- Single mom,0.17103955,4
+706,District 6,2024,% of household with children under 6 -- Single mom,0.14892162,5
+707,District 7,2024,% of household with children under 6 -- Single mom,0.1866605,3
+19,Statewide,2024,Birth to teenage mother,0.0386,NA
+701,District 1,2024,Birth to teenage mother,0.0494,1
+702,District 2,2024,Birth to teenage mother,0.0359,5
+703,District 3,2024,Birth to teenage mother,0.0416,3
+704,District 4,2024,Birth to teenage mother,0.0348,7
+705,District 5,2024,Birth to teenage mother,0.0355,6
+706,District 6,2024,Birth to teenage mother,0.0473,2
+707,District 7,2024,Birth to teenage mother,0.0366,4
+19,Statewide,2024,Birth to unmarried mother,0.3663,NA
+701,District 1,2024,Birth to unmarried mother,0.4443,1
+702,District 2,2024,Birth to unmarried mother,0.4046,2
+703,District 3,2024,Birth to unmarried mother,0.3607,5
+704,District 4,2024,Birth to unmarried mother,0.3936,3
+705,District 5,2024,Birth to unmarried mother,0.3201,7
+706,District 6,2024,Birth to unmarried mother,0.3562,6
+707,District 7,2024,Birth to unmarried mother,0.3851,4
+19,Statewide,2023,Child abuse or neglect,21.045557,NA
+701,District 1,2023,Child abuse or neglect,20.773029,5
+702,District 2,2023,Child abuse or neglect,25.255859,1
+703,District 3,2023,Child abuse or neglect,20.573387,6
+704,District 4,2023,Child abuse or neglect,25.057745,2
+705,District 5,2023,Child abuse or neglect,16.628216,7
+706,District 6,2023,Child abuse or neglect,22.164352,4
+707,District 7,2023,Child abuse or neglect,23.726225,3
+19,Statewide,2024,Children in poverty,0.13635938,NA
+701,District 1,2024,Children in poverty,0.15041371,2
+702,District 2,2024,Children in poverty,0.1607717,1
+703,District 3,2024,Children in poverty,0.12470776,6
+704,District 4,2024,Children in poverty,0.14817128,3
+705,District 5,2024,Children in poverty,0.12015162,7
+706,District 6,2024,Children in poverty,0.12786847,5
+707,District 7,2024,Children in poverty,0.1460368,4
+19,Statewide,2024,Children not fully immunized,0.2888338,NA
+701,District 1,2024,Children not fully immunized,0.33034801,3
+702,District 2,2024,Children not fully immunized,0.28350264,5
+703,District 3,2024,Children not fully immunized,0.29309845,4
+704,District 4,2024,Children not fully immunized,0.38818395,1
+705,District 5,2024,Children not fully immunized,0.24088234,7
+706,District 6,2024,Children not fully immunized,0.36761421,2
+707,District 7,2024,Children not fully immunized,0.2792536,6
+19,Statewide,2024,Children without health coverage,0.03283775,NA
+701,District 1,2024,Children without health coverage,0.03798944,4
+702,District 2,2024,Children without health coverage,0.03938711,3
+703,District 3,2024,Children without health coverage,0.04470485,2
+704,District 4,2024,Children without health coverage,0.0252301700000001,7
+705,District 5,2024,Children without health coverage,0.02770859,5
+706,District 6,2024,Children without health coverage,0.05934191,1
+707,District 7,2024,Children without health coverage,0.02653968,6
+19,Statewide,2024,Domestic violence,215.79146,NA
+701,District 1,2024,Domestic violence,264.07217,2
+702,District 2,2024,Domestic violence,132.22995,7
+703,District 3,2024,Domestic violence,164.13637,6
+704,District 4,2024,Domestic violence,222.73997,3
+705,District 5,2024,Domestic violence,174.30244,5
+706,District 6,2024,Domestic violence,175.84328,4
+707,District 7,2024,Domestic violence,277.13654,1
+19,Statewide,2024,High school dropout rate,0.01797073,NA
+701,District 1,2024,High school dropout rate,0.019598573,2
+702,District 2,2024,High school dropout rate,0.019275747,3
+703,District 3,2024,High school dropout rate,0.022616688,1
+704,District 4,2024,High school dropout rate,0.01695722,5
+705,District 5,2024,High school dropout rate,0.016392957,6
+706,District 6,2024,High school dropout rate,0.014173597,7
+707,District 7,2024,High school dropout rate,0.018420596,4
+19,Statewide,2024,Homelessness,7.9333262,NA
+701,District 1,2024,Homelessness,10.269474,2
+702,District 2,2024,Homelessness,6.5564017,4
+703,District 3,2024,Homelessness,3.011987,5
+704,District 4,2024,Homelessness,1.0251631,6
+705,District 5,2024,Homelessness,9.7925119,3
+706,District 6,2024,Homelessness,0.97908288,7
+707,District 7,2024,Homelessness,10.387748,1
+19,Statewide,2024,Inadequate prenatal care,0.0885,NA
+701,District 1,2024,Inadequate prenatal care,0.1292,1
+702,District 2,2024,Inadequate prenatal care,0.0808,5
+703,District 3,2024,Inadequate prenatal care,0.0966,3
+704,District 4,2024,Inadequate prenatal care,0.06,7
+705,District 5,2024,Inadequate prenatal care,0.0733,6
+706,District 6,2024,Inadequate prenatal care,0.1129,2
+707,District 7,2024,Inadequate prenatal care,0.0891,4
+19,Statewide,2024,Low early literacy skills,0.34006453,NA
+701,District 1,2024,Low early literacy skills,0.33413005,5
+702,District 2,2024,Low early literacy skills,0.33498204,4
+703,District 3,2024,Low early literacy skills,0.35808218000000003,2
+704,District 4,2024,Low early literacy skills,0.33089185,6
+705,District 5,2024,Low early literacy skills,0.33722961,3
+706,District 6,2024,Low early literacy skills,0.40129447,1
+707,District 7,2024,Low early literacy skills,0.32883042,7
+19,Statewide,2024,Low maternal education,0.0999,NA
+701,District 1,2024,Low maternal education,0.1602,1
+702,District 2,2024,Low maternal education,0.1033,4
+703,District 3,2024,Low maternal education,0.1228,3
+704,District 4,2024,Low maternal education,0.073,7
+705,District 5,2024,Low maternal education,0.0864,5
+706,District 6,2024,Low maternal education,0.1354,2
+707,District 7,2024,Low maternal education,0.0847,6
+19,Statewide,2024,Preterm/Low birth weight,0.1142,NA
+701,District 1,2024,Preterm/Low birth weight,0.1087,4
+702,District 2,2024,Preterm/Low birth weight,0.101,6
+703,District 3,2024,Preterm/Low birth weight,0.0993,7
+704,District 4,2024,Preterm/Low birth weight,0.118,2
+705,District 5,2024,Preterm/Low birth weight,0.1203,1
+706,District 6,2024,Preterm/Low birth weight,0.1068,5
+707,District 7,2024,Preterm/Low birth weight,0.117,3
+19,Statewide,2024,Rate of serious crime,4032.7629,NA
+701,District 1,2024,Rate of serious crime,3682.3733,3
+702,District 2,2024,Rate of serious crime,2471.1772,6
+703,District 3,2024,Rate of serious crime,2393.6997,7
+704,District 4,2024,Rate of serious crime,3524.8411,4
+705,District 5,2024,Rate of serious crime,4193.1353,2
+706,District 6,2024,Rate of serious crime,3058.053,5
+707,District 7,2024,Rate of serious crime,4862.2617,1
+19,Statewide,2024,Unemployment,0.030533671,NA
+701,District 1,2024,Unemployment,0.026286624,7
+702,District 2,2024,Unemployment,0.028254135,6
+703,District 3,2024,Unemployment,0.034802534,1
+704,District 4,2024,Unemployment,0.028874267,4
+705,District 5,2024,Unemployment,0.028553031,5
+706,District 6,2024,Unemployment,0.030716745,3
+707,District 7,2024,Unemployment,0.033202931,2
