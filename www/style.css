@@ -1,0 +1,49 @@
+/* Hide all error messages with CSS */
+.shiny-output-error {
+  visibility: hidden;
+}
+
+/* Set font for all dashboard */
+* {
+  font-family: 'Arial', 'Sans-Serif', 'Times New Roman', 'Comic Sans MS';
+}
+
+/* Change max-width of tooltip box from default 200px to 500px */
+.tooltip-inner {
+  max-width: 500px !important; 
+  text-align: left; /* Optional: Left align looks better for wide text */
+}
+
+/* This targets every <p> tag that is inside a .metadata-container */
+.metadata-container p {
+  margin-bottom: 2px;
+  margin-top: 2px;
+  /* font-size: 0.9em; */
+}
+
+/* Change font size of the DT table */
+#CP_TABLE table.dataTable thead th {
+  font-size: 16px;
+}
+
+#CP_TABLE table.dataTable tbody td {
+  font-size: 14px;
+}
+
+#CP_TABLE table.dataTable tbody td:first-child {
+  font-weight: bold;
+}
+
+/* Target the default class for all plotOutput elements */
+/* - Line 1: Example: blue solid border */
+/* - Line 2: Optional: rounded corners */
+/* - Line 3: Optional: subtle shadow */
+/* - Line 4: Optional: space inside the border */
+/*
+.shiny-plot-output {
+  border: 2px solid #007bff;     
+  border-radius: 5px;            
+  box-shadow: 3px 3px 5px #aaa;  
+  padding: 10px;                 
+  }
+*/
