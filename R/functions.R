@@ -32,7 +32,8 @@ create_named_list <- function(df) {
 
 
 # Function to Read Indicator Data Files ----------------------------------------
-if (is.na(Sys.getenv("SHINY_SERVER_VERSION", unset = NA))) {
+# if (is.na(Sys.getenv("SHINY_SERVER_VERSION", unset = NA))) {
+if (dir.exists("data")) {
   message("Reading data from local CyBox...")
   
   # Read csv files from CyBox and transform
