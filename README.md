@@ -2,15 +2,17 @@
 
 ## Setting Up Environment
 
-After cloning/pulling this repository, you will need to run following code in your R console in order to install the exact same packages onto your computer:
+After cloning/pulling this repository, you will need to run the following code in your R console in order to install the exact same packages on your computer:
   
-`renv::restore()`  
+```
+renv::restore()
+```  
 
 ## Community Planning Dashboard
 
-See info about data in this [Master Workbook](https://iastate.app.box.com/file/2438296017148?s=ko5blp1y85c47jjcb97396k0vq2wj7qd) excel file.
+See info about the data in this [Master Workbook](https://iastate.app.box.com/file/2438296017148?s=ko5blp1y85c47jjcb97396k0vq2wj7qd) Excel file.
 
-There are 20 indicators. 5 indicators are "permanent" while 15 indicators will be used for ranking.
+There are 20 indicators. 15 indicators are ranked, while 5 indicators are used to characterize the population.
 
 | #   | dimension               | measure                   | indicator                       | Rank | Subset1               | Subset2 |
 | --- | ----------------------- | ------------------------- | ------------------------------- | ---- | --------------------- | ------- |
