@@ -82,10 +82,6 @@ miechv_droplist <- ia_county_crosswalk %>% count(miechv_number_26, miechv_26) %>
 
 ## Read Geo Data ----------------------------------------------------------
 # Read sf data for mapping State of Iowa
-if (file.exists("Data/Geos/map_IA-state.rds")) {
-  ia_state_map <- read_rds("Data/Geos/map_IA-state.rds")
-} else {
-  ia_state_map <- read_rds("../common/data/map_IA-state.rds")
-}
+ia_state_map <- read_my_rds("map_IA-state.rds")
 
 
