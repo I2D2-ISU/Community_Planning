@@ -369,7 +369,9 @@ server <- function(input, output, session) {
   ### ··· Render line for selected CP indicator
   output$CP_LINE <- renderPlot({
     line.cp()
-  }, height = function() {
+  }, 
+  res = 72,
+  height = function() {
     # Calculate height base on number of ranked indicators selected
     additional <- (as.integer(input$CP_LINE_NUMBER) - 5)
     if (additional == 0) return(400)
