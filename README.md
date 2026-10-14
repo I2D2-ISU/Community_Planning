@@ -1,5 +1,11 @@
 # Comparison Tool
 
+## Setting Up Environment
+
+After cloning/pulling this repository, you will need to run following code in your R console in order to install the exact same packages onto your computer:
+  
+`renv::restore()`  
+
 ## Community Planning Dashboard
 
 See info about data in this [Master Workbook](https://iastate.app.box.com/file/2438296017148?s=ko5blp1y85c47jjcb97396k0vq2wj7qd) excel file.
