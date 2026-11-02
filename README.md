@@ -45,3 +45,30 @@ There are 20 indicators. 15 indicators are ranked, while 5 indicators are used t
 - She also requested to remove **First Time Mother** from the list (originally there used to be 21 indicators)
 
 
+
+
+## Might add for testing
+
+```
+# UI Side ---------------------------------------------------------------------
+      fluidRow(
+        h1("TESTING"),
+        verbatimTextOutput("console_output"),
+        h3("Check Elements"),
+        shiny::tableOutput("TABLE1")
+      ),
+      
+# Server Side -----------------------------------------------------------------------
+  output$TABLE1 <- renderTable({
+    data.cp() %>%
+    # rank_data.cp() %>%
+    # map_data.cp() %>%
+    # table_data.cp() %>%
+      # arrange(location) %>%
+      head(20)
+  })
+
+  output$console_output <- renderPrint({
+    read_my_csv
+  })
+```
